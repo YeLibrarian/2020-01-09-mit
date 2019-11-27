@@ -161,7 +161,7 @@ special instructions.
 
 <h2>Registration</h2>
 <p>Please register for the workshop at <a href = "https://libcal.mit.edu/calendar/events/swc_mit_2020iap">https://libcal.mit.edu/calendar/events/swc_mit_2020iap</a>.
-Registration opens on December 3, 2020</p>
+Registration opens on December 3, 2019. </p>
 <p>
 Coffee / tea and light refreshment will be provided by MIT Libraries.
 </p>
